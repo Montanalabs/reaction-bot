@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `reaction-bot_safe.os` — the correct design.
-- `reaction-bot_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `reaction-bot_safe.wave` — the correct design.
+- `reaction-bot_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
